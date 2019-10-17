@@ -1,4 +1,4 @@
-# Social-App - FullStack React & Firebase series
+# Social-App - FullStack React + Redux & Firebase series
 
 ## Preview
 [Click here](https://social-app-59da7.firebaseapp.com/)
