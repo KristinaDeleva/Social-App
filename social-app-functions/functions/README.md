@@ -15,7 +15,6 @@
 
     ```
         allow read, write: if false
-        
     ```
 
 6.  Configure your firebase configuration `/util/config.js`
