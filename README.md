@@ -1,4 +1,6 @@
-![logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/119555635/original/c133f83fa76fabfac90ce439c10b0b760b0a8d4f/do-react-redux-firebase-development.jpg)]
+![logo](https://www.pinclipart.com/picdir/middle/385-3857336_react-logo-png-name-form-validation-clipart.png)
+![logo](https://stickeroid.com/uploads/pic/full/mask/stickeroid_5bfef3f29e122.png)
+![logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png)
 
 # Social-App - FullStack React + Redux & Firebase series
 
