@@ -1,6 +1,4 @@
-![logo](https://www.pinclipart.com/picdir/middle/385-3857336_react-logo-png-name-form-validation-clipart.png)
-![logo](https://stickeroid.com/uploads/pic/full/mask/stickeroid_5bfef3f29e122.png)
-![logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png)
+![logo](https://miro.medium.com/max/3840/0*gQj7ECqJQeTqbW1M.png)
 
 # Social-App - FullStack React + Redux & Firebase series
 
