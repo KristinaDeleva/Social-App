@@ -1,4 +1,4 @@
-[![logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/119555635/original/c133f83fa76fabfac90ce439c10b0b760b0a8d4f/do-react-redux-firebase-development.jpg)]
+![logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/119555635/original/c133f83fa76fabfac90ce439c10b0b760b0a8d4f/do-react-redux-firebase-development.jpg)]
 
 # Social-App - FullStack React + Redux & Firebase series
 
